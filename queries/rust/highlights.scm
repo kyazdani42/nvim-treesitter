@@ -124,6 +124,7 @@
 
 [
  "use"
+ "extern"
  "mod"
 ] @include
 
@@ -133,7 +134,6 @@
 "default"
 "dyn"
 "enum"
-"extern"
 "fn"
 "impl"
 "let"
